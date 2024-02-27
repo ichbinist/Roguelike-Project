@@ -1,0 +1,140 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2530ae584e73fdf42a0676ca917b99c8, type: 3}
+  m_Name: Shotgun
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: itemGrid
+      Entry: 7
+      Data: 0|System.Boolean[,], mscorlib
+    - Name: 
+      Entry: 12
+      Data: 25
+    - Name: ranks
+      Entry: 1
+      Data: 5|5
+    - Name: 
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 5
+      Data: true
+    - Name: 
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 5
+      Data: false
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  ShootingSpeed: 0.82
+  Damage: 7
+  CursorAimingMultiplier: 0.75
+  AimingMinimumValue: 7.5
+  AimingMovementSpeed: 5
+  AmmoCapacity: 2
+  ReloadTime: 1.5
+  ShootingParticles: {fileID: 1150518663135723045, guid: ae28203976e400046b3b7fc77b303b64,
+    type: 3}
+  itemType: 0
+  WeaponID: Shotgun
+  WeaponHeader: Shotgun
+  WeaponSpecials: Burst Damage, High Damage, Slow Speed
+  WeaponDetails: Originally, this design is made for trench warfare by the America
+    in 1900s. Design is not changed too much since then.
+  WeaponSprite: {fileID: 21300000, guid: 318b4fcb661e5ed448d801cf001ba8ca, type: 3}
+  WeaponInventoryIcon: {fileID: 21300000, guid: 318b4fcb661e5ed448d801cf001ba8ca,
+    type: 3}
+  ComponentInfos:
+  - Component: 0
+    Value: 6
+  - Component: 1
+    Value: 1
+  - Component: 2
+    Value: 0
+  - Component: 3
+    Value: 0
